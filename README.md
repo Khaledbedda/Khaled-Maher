@@ -1,5 +1,5 @@
 # Posts 
-[Liver Fibrosis Detection using Machine Learning ](https://khaledbedda.github.io/Fibrosis-Detection) 
+[Liver Fibrosis Detection using Machine Learning ](https://khaledbedda.github.io/Team15) 
 
 
 
@@ -21,7 +21,7 @@ Junior student at Faculty of Egineering, Cairo university, Systems and Biomedica
 ### Projects 
 * Mathematical Modeling of Autoimmune process . 
 * Image compression with Huffman algorithm .
-* .[Non-invasive methods of detection of liver fibrosis (ML) ](https://khaledbedda.github.io/Fibrosis-Detection/)
+* .[Non-invasive methods of detection of liver fibrosis (ML) ](https://khaledbedda.github.io/Team15)
 
 ### Interstes
 * Software Development
