@@ -1,5 +1,5 @@
 # Khaled Bedda  
-🔗 [LinkedIn](https://linkedin.com/in/khaledbedda) | 💻 [GitHub](https://github.com/khaledbedda)  
+🔗 [LinkedIn](https://www.linkedin.com/in/khaled-bedda-89693213b/) | 💻 [GitHub](https://github.com/khaledbedda)  
 📧 khaledbedda12@gmail.com | 📞 +1 807-358-7144 | 🌍 Thunder Bay, ON, Canada  
 
 ---
