@@ -1,4 +1,4 @@
-# Khaled Bedda  
+# Khaled Bedda  | Website is under Construction. Please reach out to me for more information. 
 🔗 [LinkedIn](https://www.linkedin.com/in/khaled-bedda-89693213b/) | 💻 [GitHub](https://github.com/khaledbedda)  
 📧 khaledbedda12@gmail.com | 📞 +1 807-358-7144 | 🌍 Thunder Bay, ON, Canada  
 
